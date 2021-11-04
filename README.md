@@ -1,4 +1,4 @@
-╭━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━≪✠≫─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━╮
+╭━─━─━─━─━─━─━─━─━─━─━─━─━─━─━≪✠≫─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━╮
 
 Hola, mi nombre es Manuel, totalmente nuevo en todo
  relacionado a la programación asi que este github
@@ -10,4 +10,4 @@ Hola, mi nombre es Manuel, totalmente nuevo en todo
 ser ocupado por pequeñas y grandes empresas para proteger
               sus archivos y servidores
 
-╰━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━≪✠≫─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━╯
+╰━─━─━─━─━─━─━─━─━─━─━─━─━─━─━≪✠≫─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━╯
