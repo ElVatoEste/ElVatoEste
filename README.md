@@ -4,5 +4,5 @@
 - Estudiando: Python / JavaScript
 - Carrera: Ingeneria en sistemas
 - Nica hasta los huesos
-- ![Si](https://imgur.com/kORCgo5)
+- ![](https://i.imgur.com/kORCgo5.png)
 ╰─━─━─━─━─━─━─━─━─━─━─≪✠≫─━─━─━─━─━─━─━─━─━─━─╯
