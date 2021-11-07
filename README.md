@@ -3,6 +3,6 @@
 - 17 años
 - Estudiando: Python / JavaScript
 - Carrera: Ingeneria en sistemas
-- Nica hasta los huesos
+- Pinolero
 - ![](https://i.imgur.com/kORCgo5.png)
 ╰─━─━─━─━─━─━─━─━─━─━─≪✠≫─━─━─━─━─━─━─━─━─━─━─╯
