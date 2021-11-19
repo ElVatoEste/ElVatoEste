@@ -13,4 +13,4 @@
 
 #### My stats
 
-<img align="center" src="/github-metrics.svg" alt="Milo's github stats">
+<img align="center" src="/github-metrics.svg" alt="Vato stats">
