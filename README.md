@@ -7,7 +7,7 @@ const anmol = {
     Pronombre: "El" | "He",
     Aprendiendo: ["Javascript", "Python"],
     Sobre_Mi: ["Gamer", "Admin"_Discord", "Programador.Novato", "Deportista"],
-    Metas : ["Desarrollo de bots para discord", "Desarollo de videojuegos"],
+    Metas : "Desarrollo de bots para discord" || "Desarollo de videojuegos" ,
     funFact: "Color favorito = Naranja"
     Edad: 17
 };
