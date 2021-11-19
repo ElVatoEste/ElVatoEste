@@ -14,11 +14,6 @@ const Vato_Dev = {
 };
 ```
 
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-    ![Vato](https://github-readme-stats.vercel.app/api?username=ElVatoEste&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula)
+![Vato](https://github-readme-stats.vercel.app/api?username=ElVatoEste&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula)
     
-    ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElVatoEste)
-</p>
-</details>
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElVatoEste)
