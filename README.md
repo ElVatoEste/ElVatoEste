@@ -14,12 +14,6 @@ const Vato_Dev = {
 };
 ```
 
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ElVatoEste&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula>
-    <br>
-    <img alt = "Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElVatoEste">
-</p>
-</details>
+![Barras](https://github-readme-stats.vercel.app/api/top-langs/?username=ElVatoEste)
 
+![VatoStats](https://github-readme-stats.vercel.app/api?username=ElVatoEste&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula)
