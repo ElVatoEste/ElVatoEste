@@ -9,3 +9,4 @@
 
 
 ![profile_views](https://komarev.com/ghpvc/?username=ElVatoEste)
+[Vato's Stats](https://github-readme-stats.vercel.app/api?username=ElVatoEste&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula)
