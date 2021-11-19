@@ -1,6 +1,6 @@
 
 ![profile_views](https://komarev.com/ghpvc/?username=ElVatoEste)
-![GitHub followers](https://img.shields.io/github/followers/ElVatoEste?label=Follow&style=social)
+[GitHub followers](https://img.shields.io/github/followers/ElVatoEste?label=Follow&style=social)
 
 ## Mis datos
 ```javascript
