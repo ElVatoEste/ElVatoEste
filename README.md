@@ -16,7 +16,7 @@ const Vato_Dev = {
 ## Mis repositorios mas usados
 
 [![Visits Badge](https://badges.pufler.dev/visits/ELvatoEste/https://github.com/ElVatoEste/Repositorios)](https://github.com/ElVatoEste/Repositorios)
-
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 ![VatoStats](https://github-readme-stats.vercel.app/api?username=ElVatoEste&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula)
 ![Barras](https://github-readme-stats.vercel.app/api/top-langs/?username=ElVatoEste)
