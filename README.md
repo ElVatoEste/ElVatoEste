@@ -16,3 +16,6 @@ const Vato_Dev = {
 
 ![VatoStats](https://github-readme-stats.vercel.app/api?username=ElVatoEste&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula)
 ![Barras](https://github-readme-stats.vercel.app/api/top-langs/?username=ElVatoEste)
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
