@@ -5,7 +5,7 @@
 ## Mis datos
 ```javascript
 const Vato_Dev = {
-    Pronombre: "El" | "He",
+    Pronombre: "He" | "Him",
     Aprendiendo: ["Javascript", "Python"],
     Sobre_Mi: ["Gamer", "Admin_Discord", "Programador.Novato", "Deportista"],
     Metas : "Bot.Discord" || "Desarollo de videojuegos" ,
