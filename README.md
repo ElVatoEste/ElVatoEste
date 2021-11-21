@@ -9,8 +9,8 @@ const Vato_Dev = {
     Aprendiendo: ["Javascript", "Python"],
     Sobre_Mi: ["Gamer", "Admin_Discord", "Programador.Novato", "Deportista"],
     Metas : "Bot.Discord" || "Desarollo de videojuegos" ,
-    funFact: "Color = Naranja"
-    Edad: "17"
+    funFact: Color = "Naranja"
+    Edad: 17
 };
 ```
 ## Mis repositorios mas usados
