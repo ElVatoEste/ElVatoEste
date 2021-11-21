@@ -2,14 +2,6 @@
 ![profile_views](https://komarev.com/ghpvc/?username=ElVatoEste)
 ![GitHub followers](https://img.shields.io/github/followers/ElVatoEste?label=Follow&style=social)
 
-</p>
-<p align="center">
-    <a href="https://discord.gg/f4cEWpvnFE">
-        <img src="https://img.shields.io/discord/797857836428165121?logo=discord"
-            alt="chat on Discord"></a>
-
-</p>
-
 ## Mis datos
 ```javascript
 const Vato_Dev = {
