@@ -1,5 +1,5 @@
-<img align='left' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/pikachu.gif' width="15%" > 
-<img align='right' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/itachi.gif' width='20%' > 
+<img align='left' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/pikachu.gif' width="17%" > 
+<img align='right' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/itachi.gif' width="17%" > 
 
 
 ## Mis datos
@@ -14,9 +14,7 @@ const Vato_Dev = {
     Edad: 17
 };
 ```
-
-
-
+<br>
 
 ![](https://komarev.com/ghpvc/?username=ElVatoEste)
 ![](https://img.shields.io/github/followers/ElVatoEste?label=Follow&style=social)
@@ -24,12 +22,9 @@ const Vato_Dev = {
 
 ## Mis repositorios mas usados
 
-> Repositorios de cursos
-
-![Visits Badge](https://badges.pufler.dev/visits/ElVatoEste/Repositorios)
-> Bot Discord
-
-![Visits Badge](https://badges.pufler.dev/visits/ElVatoEste/Aikko-bot)
+Repositorios de cursos &nbsp; ![Visits Badge](https://badges.pufler.dev/visits/ElVatoEste/Repositorios)
+<br>
+Bot Discord &nbsp; ![Visits Badge](https://badges.pufler.dev/visits/ElVatoEste/Aikko-bot)
 
 ![VatoStats](https://github-readme-stats.vercel.app/api?username=ElVatoEste&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula)
 ![Barras](https://github-readme-stats.vercel.app/api/top-langs/?username=ElVatoEste)
