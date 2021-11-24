@@ -1,12 +1,9 @@
-<img align='left' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/chorizo.gif' width="150" height="150">  
-    <img align='' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/pikachu.gif' width="150" height="150">  
-<img align='right' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/itachi.gif' width='18%'>  
+<img align='left' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/pikachu.gif' width="15%" > 
+<img align='right' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/itachi.gif' width='20%' > 
 
-
-![](https://komarev.com/ghpvc/?username=ElVatoEste)
-![](https://img.shields.io/github/followers/ElVatoEste?label=Follow&style=social)
 
 ## Mis datos
+
 ```javascript
 const Vato_Dev = {
     Pronombre: "He" | "Him",
@@ -17,6 +14,14 @@ const Vato_Dev = {
     Edad: 17
 };
 ```
+
+
+
+
+![](https://komarev.com/ghpvc/?username=ElVatoEste)
+![](https://img.shields.io/github/followers/ElVatoEste?label=Follow&style=social)
+
+
 ## Mis repositorios mas usados
 
 > Repositorios de cursos
