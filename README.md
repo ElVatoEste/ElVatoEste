@@ -1,4 +1,5 @@
 <img align='left' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/chorizo.gif' width="150" height="150">  
+    <img align='' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/pikachu.gif' width="150" height="150">  
 <img align='right' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/itachi.gif' width='18%'>  
 
 
