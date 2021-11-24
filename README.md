@@ -1,5 +1,5 @@
-<img align='left' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/chorizo.gif' width='30%'>  
-<img align='right' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/itachi.gif' width='30%'>  
+<img align='left' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/chorizo.gif' width='20%'>  
+<img align='right' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/itachi.gif' width='20%'>  
 
 
 ![profile_views](https://komarev.com/ghpvc/?username=ElVatoEste)
