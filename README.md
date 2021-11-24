@@ -1,9 +1,9 @@
-<img align='left' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/chorizo.gif' width='20%'>  
-<img align='right' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/itachi.gif' width='20%'>  
+<img aling='left' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/chorizo.gif' width="200" height="200">  
+<img align='right' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/itachi.gif' width='18%'>  
 
 
-![profile_views](https://komarev.com/ghpvc/?username=ElVatoEste)
-![GitHub followers](https://img.shields.io/github/followers/ElVatoEste?label=Follow&style=social)
+![](https://komarev.com/ghpvc/?username=ElVatoEste)
+![](https://img.shields.io/github/followers/ElVatoEste?label=Follow&style=social)
 
 ## Mis datos
 ```javascript
