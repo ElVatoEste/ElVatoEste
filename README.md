@@ -20,9 +20,9 @@ const Vato_Dev = {
 
 | <a href="https://github.com/ElVatoEste/Repositorios" target="_blank">**Repositorios**</a> | <a href="https://github.com/ElVatoEste/Aikko-bot" target="_blank">**Aikko-bot**</a> | 
 | :---: | :---: |
-<img align='center' src='https://avatars.githubusercontent.com/u/77628453?s=200&v=4' width="100px"  height='100px'> | <img align='center' width="100px" src='https://avatars.githubusercontent.com/u/76667263?s=200&v=4' height='100px'>  | <img align='center' src='https://github.com/ElVatoEste/ElVatoEste/blob/main/sprites/AikkoIcon.png' width="100px" height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/86208275?s=200&v=4' width="100px" height='100px'> |
+<img align='center' src='https://avatars.githubusercontent.com/u/77628453?s=200&v=4' width="100px"  height='100px'> | <img align='center' width="100px" src='https://raw.githubusercontent.com/ElVatoEste/ElVatoEste/main/sprites/AikkoIcon.png' height='100px'>  | 
 
-<h2 align="center">Projects</h2>
+
 Repositorios de cursos &nbsp; ![Visits Badge](https://badges.pufler.dev/visits/ElVatoEste/Repositorios)
 <br>
 Bot Discord &nbsp; ![Visits Badge](https://badges.pufler.dev/visits/ElVatoEste/Aikko-bot)
