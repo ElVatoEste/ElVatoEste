@@ -1,5 +1,5 @@
-<img align='left' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/pikachu.gif' width="17%" > 
-<img align='right' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/itachi.gif' width="17%" > 
+<img align='right' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/chorizo.gif'  > 
+<img align='left' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/itachi.gif' width="16%"> 
 
 <h2 align="center">About me</h2>
 
@@ -18,9 +18,10 @@ const Vato_Dev = {
 ![](https://komarev.com/ghpvc/?username=ElVatoEste&color=orange)
 ![](https://img.shields.io/github/followers/ElVatoEste?label=Follow&style=social)
 
+| <a href="https://github.com/ElVatoEste/Repositorios" target="_blank">**Repositorios**</a> | <a href="https://enhancedtwitch.com" target="_blank">**EnhancedTwitch**</a> | 
+| :---: | :---: |
 
-<h2 align="center">Proyectos</h2>
-
+<h2 align="center">Projects</h2>
 Repositorios de cursos &nbsp; ![Visits Badge](https://badges.pufler.dev/visits/ElVatoEste/Repositorios)
 <br>
 Bot Discord &nbsp; ![Visits Badge](https://badges.pufler.dev/visits/ElVatoEste/Aikko-bot)
