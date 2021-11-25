@@ -1,7 +1,7 @@
 <img align='left' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/pikachu.gif' width="17%" > 
 <img align='right' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/itachi.gif' width="17%" > 
 
-<h2 align="center">Mis Datos</h2>
+<h2 align="center">About me</h2>
 
 ```javascript
 const Vato_Dev = {
