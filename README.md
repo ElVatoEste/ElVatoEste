@@ -25,13 +25,14 @@ const Vato_Dev = {
 | <a href="https://github.com/ElVatoEste/Repositorios" target="_blank">**Repositorios**</a> | <a href="https://github.com/ElVatoEste/Aikko-bot" target="_blank">**Aikko-bot**</a> | 
 | :---: | :---: |
 <img align='center' src='https://github.com/ElVatoEste/ElVatoEste/blob/main/sprites/repositorios.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://raw.githubusercontent.com/ElVatoEste/ElVatoEste/main/sprites/AikkoIcon.png' width="300px" >| 
-| ![Visits Badge](https://badges.pufler.dev/visits/ElVatoEste/Repositorios) | ![Visits Badge](https://badges.pufler.dev/visits/ElVatoEste/Aikko-bot) <p align="center"> Funciones inavilidatas por actualizacion de api Discord </p> |
+| <p1 align="center"> `Cursos Programación`</p1> ![Visits Badge](https://badges.pufler.dev/visits/ElVatoEste/Repositorios) | <p1 align="center"> `Desactualizada`</p1> ![Visits Badge](https://badges.pufler.dev/visits/ElVatoEste/Aikko-bot) |
     
-    
+<h2 align="center">Stats</h2>
+<p align="center">Mis estadisticas generales.</p>
 
+| ![VatoStats](https://github-readme-stats.vercel.app/api?username=ElVatoEste&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula) | ![Barras](https://github-readme-stats.vercel.app/api/top-langs/?username=ElVatoEste)| 
+| :---: | :---: |
 
-![VatoStats](https://github-readme-stats.vercel.app/api?username=ElVatoEste&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula)
-![Barras](https://github-readme-stats.vercel.app/api/top-langs/?username=ElVatoEste)
-
+<h1 align="center">Memes xd</h1>
 <div align="center"> <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Refresca la pagina por si no se genero el meme" width="50%">
 
