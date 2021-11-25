@@ -1,7 +1,9 @@
+
 <img align='right' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/chorizo.gif'  > 
 <img align='left' src='https://raw.githubusercontent.com/elvatoeste/elvatoeste/master/sprites/itachi.gif' width="16%"> 
 
-<h2 align="center">Sobre mi</h2>
+
+<h2 align="center">Sobre mi  <img src='https://avatars.githubusercontent.com/u/73704763?s=96&v=4' align="center" width="5%"></h2>
 
 ```javascript
 const Vato_Dev = {
@@ -13,11 +15,8 @@ const Vato_Dev = {
     Edad: 17
 };
 ```
+<h2 align="center"><img src="https://komarev.com/ghpvc/?username=ElVatoEste&color=orange"> <img src="https://img.shields.io/github/followers/ElVatoEste?label=Follow&style=social"> </h2>
 
-![](https://komarev.com/ghpvc/?username=ElVatoEste&color=orange)
-![](https://img.shields.io/github/followers/ElVatoEste?label=Follow&style=social)
-
-<br>
 <h2 align="center">Projectos</h2>
 <p align="center">Mis proyectos publicos a lo largo de mis estudios.</p>
 
