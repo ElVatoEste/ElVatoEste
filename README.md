@@ -18,8 +18,9 @@ const Vato_Dev = {
 ![](https://komarev.com/ghpvc/?username=ElVatoEste&color=orange)
 ![](https://img.shields.io/github/followers/ElVatoEste?label=Follow&style=social)
 
-| <a href="https://github.com/ElVatoEste/Repositorios" target="_blank">**Repositorios**</a> | <a href="https://enhancedtwitch.com" target="_blank">**EnhancedTwitch**</a> | 
+| <a href="https://github.com/ElVatoEste/Repositorios" target="_blank">**Repositorios**</a> | <a href="https://github.com/ElVatoEste/Aikko-bot" target="_blank">**Aikko-bot**</a> | 
 | :---: | :---: |
+<img align='center' src='https://avatars.githubusercontent.com/u/77628453?s=200&v=4' width="100px"  height='100px'> | <img align='center' width="100px" src='https://avatars.githubusercontent.com/u/76667263?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars.githubusercontent.com/u/81942507?s=200&v=4' width="100px" height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/86208275?s=200&v=4' width="100px" height='100px'> |
 
 <h2 align="center">Projects</h2>
 Repositorios de cursos &nbsp; ![Visits Badge](https://badges.pufler.dev/visits/ElVatoEste/Repositorios)
