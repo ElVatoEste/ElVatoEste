@@ -10,7 +10,7 @@ const Vato_Dev = {
     Pronombre: "He" | "Him",
     Aprendiendo: ["Javascript", "Python", "C++", "HTML"],
     Sobre_Mi: ["Gamer", "Admin_Discord", "Programador.Novato", "Deportista"],
-    Metas : "Bot.Discord" || "Desarollo de videojuegos" ,
+    Metas : "Bot.Discord" || "CyberSegurity" || "AppDevelopment" ,
     funFact: Color = "Naranja"
     Edad: 17
 };
