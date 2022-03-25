@@ -8,7 +8,7 @@
 ```javascript
 const Vato_Dev = {
     Pronombre: "He" | "Him",
-    Aprendiendo: ["Javascript", "Python"],
+    Aprendiendo: ["Javascript", "Python", "C++", "HTML"],
     Sobre_Mi: ["Gamer", "Admin_Discord", "Programador.Novato", "Deportista"],
     Metas : "Bot.Discord" || "Desarollo de videojuegos" ,
     funFact: Color = "Naranja"
