@@ -6,10 +6,10 @@
 const Vato_Dev = {
     Pronombre: "He" | "Him",
     Aprendiendo: ["Javascript", "Python", "C++", "HTML"],
-    Sobre_Mi: ["Gamer", "Admin_Discord", "Programador.Novato", "Deportista"],
+    Sobre_Mi: ["Gamer", "Admin_Discord", "Programador", "Deportista"],
     Metas : "Bot.Discord" || "CyberSegurity" || "AppDevelopment" ,
     funFact: Color = "Naranja"
-    Edad: 17
+    Edad: 18
 };
 ```
 <h2 align="center"><img src="https://komarev.com/ghpvc/?username=ElVatoEste&color=orange"> <img src="https://img.shields.io/github/followers/ElVatoEste?label=Follow&style=social"> </h2>
