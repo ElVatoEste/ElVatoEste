@@ -1,6 +1,6 @@
 
-<h2 align="center">Sobre mi  <img src='https://avatars.githubusercontent.com/u/73704763?s=96&v=4' align="center" width="5%">
-</h2>
+<h1 align="center">Sobre mi  <img src='https://avatars.githubusercontent.com/u/73704763?s=96&v=4' align="center" width="5%">
+</h1>
 
 ```javascript
 const Vato_Dev = {
