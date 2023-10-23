@@ -8,7 +8,7 @@ const Vato_Dev = {
     Aprendiendo: ["Javascript", "Python", "C++", "HTML"],
     Sobre_Mi: ["Gamer", "Admin_Discord", "Programador", "Deportista"],
     Metas : "Bot.Discord" || "CyberSegurity" || "AppDevelopment",
-    Color = "Naranja",
+    Color: "Naranja",
     Edad: 18
 };
 ```
