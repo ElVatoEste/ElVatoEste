@@ -5,11 +5,11 @@
 ```javascript
 const Vato_Dev = {
     Pronombre: "He" | "Him",
-    Aprendiendo: ["Javascript", "Python", "C++", "HTML"],
+    Aprendiendo: ["Java", "Javascript", "Python", "C++", "HTML"],
     Sobre_Mi: ["Gamer", "Admin_Discord", "Programador", "Deportista"],
     Metas : "Bot.Discord" || "CyberSegurity" || "AppDevelopment",
     Color: "Naranja",
-    Edad: 18
+    Edad: 20
 };
 ```
 <h2 align="center"><img src="https://komarev.com/ghpvc/?username=ElVatoEste&color=orange"> <img src="https://img.shields.io/github/followers/ElVatoEste?label=Follow&style=social"> </h2>
