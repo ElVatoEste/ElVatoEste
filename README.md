@@ -15,7 +15,7 @@ const Vato_Dev = {
 <h2 align="center"><img src="https://komarev.com/ghpvc/?username=ElVatoEste&color=orange"> <img src="https://img.shields.io/github/followers/ElVatoEste?label=Follow&style=social"> </h2>
 
 <h2 align="center">Projectos</h2>
-<p align="center">Mis proyectos publicos a lo largo de mis estudios.</p>
+<p align="center">Mis proyectos olvidados.</p>
 
     
 | <a href="https://github.com/ElVatoEste/Repositorios" target="_blank">**Repositorios**</a> | <a href="https://github.com/ElVatoEste/Aikko-bot" target="_blank">**Aikko-bot**</a> | 
