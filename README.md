@@ -5,9 +5,9 @@
 ```javascript
 const Vato_Dev = {
     Pronombre: "He" | "Him",
-    Aprendiendo: ["Java", "Javascript", "Python", "C++", "HTML"],
+    Aprendiendo: ["Java", "Python", "C++", "Javascript"],
     Sobre_Mi: ["Gamer", "Admin_Discord", "Programador", "Deportista"],
-    Metas : "Bot.Discord" || "CyberSegurity" || "AppDevelopment",
+    Metas : "WebDevelpment" || "CyberSegurity" || "AppDevelopment",
     Color: "Naranja",
     Edad: 20
 };
