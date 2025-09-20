@@ -1,6 +1,10 @@
+
+ <p align="center">
+   <img src="https://komarev.com/ghpvc/?username=ElVatoEste&style=flat-square"/>
+</p>
+
 # 💫 About Me:
 👋 Hola, soy Manuel pero me dicen Vato<br>💻 Actualmente estoy en el sector de desarrollo Web<br>📚 Enamorado del desarrollo Fullstack<br>🚀 Estoy en busca de nuevos retos<br>⚡Aficionado al anime y los videojuegos 
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vato_dev) 
